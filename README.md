@@ -7,5 +7,8 @@ How to run the code
 2)The FINAL2 folder contains the dataset of eye images of up, down, right, centre, left, open and close. You can download and unzip  to use
 3)3class model creation contains the code for model creation for right, centre and left classification. You can use the dataset in FINAL2 for training.
 4)5class model creation contains the code for model creation for right, centre, up, down and left classification. You can use the dataset in FINAL2 for training.
-5)blinkmo
+5)blink model creation contains the code for model creation for open and close eye classification. You can use the dataset in FINAL2 for training.
+6)After creating the model you can run the code for 3 class classification inorder to classify to left right centre and blink in video.
+7)After creating the model you can run the code for 5 class classification inorder to classify to left right centre up down and blink in video.
+
 
